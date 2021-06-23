@@ -1,0 +1,4 @@
+﻿  Lab_5.cpp
+F:\UNIVERSIDAD QUINTO\FAL\Lab 5\Lab 5\Lab_5.cpp(32,14): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\UNIVERSIDAD QUINTO\FAL\Lab 5\Lab 5\Lab_5.cpp(37,9): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+  Lab 5.vcxproj -> F:\UNIVERSIDAD QUINTO\FAL\Lab 5\Debug\Lab 5.exe
