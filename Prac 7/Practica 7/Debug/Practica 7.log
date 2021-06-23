@@ -1,0 +1,7 @@
+﻿  Source.cpp
+F:\UNIVERSIDAD QUINTO\FAL\Practica 7\Practica 7\Source.cpp(90,21): error C2131: la expresión no se evaluó como una constante
+F:\UNIVERSIDAD QUINTO\FAL\Practica 7\Practica 7\Source.cpp(90,19): message : el error se debió a una lectura de una variable fuera de su duración
+F:\UNIVERSIDAD QUINTO\FAL\Practica 7\Practica 7\Source.cpp(90,19): message : consulte el uso de 'n'
+F:\UNIVERSIDAD QUINTO\FAL\Practica 7\Practica 7\Source.cpp(90,37): error C2131: la expresión no se evaluó como una constante
+F:\UNIVERSIDAD QUINTO\FAL\Practica 7\Practica 7\Source.cpp(90,35): message : el error se debió a una lectura de una variable fuera de su duración
+F:\UNIVERSIDAD QUINTO\FAL\Practica 7\Practica 7\Source.cpp(90,35): message : consulte el uso de 'n'
